@@ -84,7 +84,7 @@ void insertAtEnd(Node** head_ref, int new_data){
 
 int main(){
     // Let's create a nodes 
-    Node* head = new Node{1};
+    Node* head = new Node{1};   
     Node* second = new Node{2};
     Node* third = new Node{3};
 
